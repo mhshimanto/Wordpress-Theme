@@ -1,0 +1,18 @@
+[15-Nov-2023 12:39:25 UTC] PHP Warning:  Undefined array key "editor_post_id" in /var/home/monjurul/mayadeep.net/wp-content/plugins/elementor/modules/history/revisions-manager.php on line 363
+[16-Nov-2023 13:33:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /var/home/monjurul/mayadeep.net/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Nov-2023 13:33:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /var/home/monjurul/mayadeep.net/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Nov-2023 13:33:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /var/home/monjurul/mayadeep.net/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Nov-2023 13:33:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /var/home/monjurul/mayadeep.net/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Nov-2023 13:33:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /var/home/monjurul/mayadeep.net/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Nov-2023 13:33:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /var/home/monjurul/mayadeep.net/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Nov-2023 13:33:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /var/home/monjurul/mayadeep.net/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Nov-2023 13:33:12 UTC] PHP Warning:  Trying to access array offset on value of type bool in /var/home/monjurul/mayadeep.net/wp-content/plugins/elementor/includes/managers/image.php on line 113
+[16-Nov-2023 16:46:49 UTC] PHP Warning:  Attempt to read property "title" on null in /var/home/monjurul/mayadeep.net/wp-includes/class-wp-customize-widgets.php on line 905
+[16-Nov-2023 17:32:45 UTC] PHP Warning:  Attempt to read property "title" on null in /var/home/monjurul/mayadeep.net/wp-includes/class-wp-customize-widgets.php on line 905
+[17-Nov-2023 18:27:54 UTC] PHP Warning:  Attempt to read property "title" on null in /var/home/monjurul/mayadeep.net/wp-includes/class-wp-customize-widgets.php on line 905
+[18-Nov-2023 11:31:59 UTC] PHP Warning:  Undefined array key "user" in /var/home/monjurul/mayadeep.net/wp-content/plugins/elementor/core/common/modules/connect/module.php on line 225
+[18-Nov-2023 11:31:59 UTC] PHP Warning:  Attempt to read property "email" on null in /var/home/monjurul/mayadeep.net/wp-content/plugins/elementor/core/common/modules/connect/module.php on line 225
+[18-Nov-2023 12:31:50 UTC] PHP Warning:  Attempt to read property "title" on null in /var/home/monjurul/mayadeep.net/wp-includes/class-wp-customize-widgets.php on line 905
+[18-Nov-2023 12:33:35 UTC] PHP Warning:  Attempt to read property "title" on null in /var/home/monjurul/mayadeep.net/wp-includes/class-wp-customize-widgets.php on line 905
+[18-Nov-2023 12:36:37 UTC] PHP Warning:  Attempt to read property "title" on null in /var/home/monjurul/mayadeep.net/wp-includes/class-wp-customize-widgets.php on line 905
+[18-Nov-2023 12:42:43 UTC] PHP Warning:  Attempt to read property "title" on null in /var/home/monjurul/mayadeep.net/wp-includes/class-wp-customize-widgets.php on line 905

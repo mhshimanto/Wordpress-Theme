@@ -1,0 +1,14 @@
+{
+    "name": "Vik Booking",
+    "display": "standalone",
+    "short_name": "www.mayadeep.net",
+    "description": "Vik Booking - www.mayadeep.net",
+    "start_url": "https:\/\/www.mayadeep.net\/wp-admin\/admin.php?page=vikbooking&webapp=1",
+    "icons": [
+        {
+            "src": "https:\/\/www.mayadeep.net\/wp-content\/plugins\/vikbooking\/admin\/resources\/channels\/touch-icon-192.png",
+            "sizes": "192x192",
+            "type": "image\/png"
+        }
+    ]
+}
